@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: Lecture notes on acid-base titrations and acid-base equilibrium.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-111-principles-of-chemical-science-fall-2008/1ab87432b37e3192896953ae61c2af8b_lecnotes23.pdf
+file: /media/courses/5-111-principles-of-chemical-science-fall-2008/1ab87432b37e3192896953ae61c2af8b_lecnotes23.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Readings and Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Acid-base titrations
 uid: 1ab87432-b37e-3192-8969-53ae61c2af8b

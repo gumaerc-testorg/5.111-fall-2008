@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Biology Topics
 uid: d3155b63-ec67-4335-5375-ea901b2a4f4e
 ---

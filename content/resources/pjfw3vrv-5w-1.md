@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-111-principles-of-chemical-science-fall-2008/0934f0c000d4881f3b6548262115e48d_PJFW3Vrv-5w.pdf
+file: /media/courses/5-111-principles-of-chemical-science-fall-2008/0934f0c000d4881f3b6548262115e48d_PJFW3Vrv-5w.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 0934f0c0-00d4-881f-3b65-48262115e48d

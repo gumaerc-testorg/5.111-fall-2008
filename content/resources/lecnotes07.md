@@ -3,8 +3,12 @@ content_type: resource
 description: Lecture notes on RPD for s-orbitals, p-orbitals, the shape of p-orbitals,
   radial probability distributions, electron spin and the fourth quantum number, and
   wavefunctions for multielectron atoms.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-111-principles-of-chemical-science-fall-2008/733a50a0c3843086ea5627cd4517566f_lecnotes07.pdf
+file: /media/courses/5-111-principles-of-chemical-science-fall-2008/733a50a0c3843086ea5627cd4517566f_lecnotes07.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Readings and Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: p-orbitals
 uid: 733a50a0-c384-3086-ea56-27cd4517566f

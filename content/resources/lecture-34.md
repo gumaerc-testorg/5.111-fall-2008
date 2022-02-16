@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture Notes ([PDF](resources/lecnotes34 "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 34: Temperature and Kinetics'
 uid: 667a9564-cdb9-32dd-e317-4d7231a9278a
 video_files:
   archive_url: http://www.archive.org/download/MIT5.111F08/ocw-5.111-f08-lec34_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-111-principles-of-chemical-science-fall-2008/0dbdae5336c152aeb876e74ca807b631_rGAcOfOZToA.vtt
+  video_captions_file: /courses/5-111-principles-of-chemical-science-fall-2008/0dbdae5336c152aeb876e74ca807b631_rGAcOfOZToA.vtt
   video_thumbnail_file: https://img.youtube.com/vi/rGAcOfOZToA/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-111-principles-of-chemical-science-fall-2008/22b91fe3de75a1c5bb6d70ba5610d5c8_rGAcOfOZToA.pdf
+  video_transcript_file: /courses/5-111-principles-of-chemical-science-fall-2008/22b91fe3de75a1c5bb6d70ba5610d5c8_rGAcOfOZToA.pdf
 video_metadata:
   youtube_id: rGAcOfOZToA
 ---

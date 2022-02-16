@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: TA Training
 uid: d95fdda3-d85f-e5ab-7c1d-3004f46da8e1
 ---
@@ -60,7 +62,7 @@ Discussion on goals of the course, goals of TA training, and resources for TAs a
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Practice exams and biology-related problems were sent to each TA over the summer. These were provided to familiarize you with the problem types in 5.111 and to help you identify concepts that you may need to spend extra time on during training or during the course. Please attempt all problems prior to training, and come prepared with questions.
 {{< tdclose >}}
 
@@ -129,7 +131,7 @@ Discussion and role playing led by former 5.111 recitation TAs. ([PDF]({{< baseu
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 
 
 Review the acid-base problems from the practice exams.
@@ -245,7 +247,7 @@ Selection of recitation time slots and an opportunity to ask questions about gra
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Finalize your 6-10 minute microteaching lesson for Day 5.
 {{< tdclose >}}
 
@@ -314,7 +316,7 @@ Discussion and role playing led by former 5.111 recitation TAs. ([PDF]({{< baseu
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
  
 {{< tdclose >}}
 

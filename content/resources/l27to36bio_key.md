@@ -2,8 +2,12 @@
 content_type: resource
 description: Solutions to selected biology-related questions from problem sets for
   lectures 27-36.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-111-principles-of-chemical-science-fall-2008/a9d6215401984478f56ffc1135dda386_L27to36Bio_Key.pdf
+file: /media/courses/5-111-principles-of-chemical-science-fall-2008/a9d6215401984478f56ffc1135dda386_L27to36Bio_Key.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Biology Topics
+parent_type: CourseSection
 resourcetype: Document
 title: Solutions to selected biology-related questions from problem sets for lectures
   27-36

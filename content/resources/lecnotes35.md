@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: Lecture notes on enzyme catalysis and Le Chatelier's principle.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-111-principles-of-chemical-science-fall-2008/9c4688d50d22af369e23a5c8ed81123d_lecnotes35.pdf
+file: /media/courses/5-111-principles-of-chemical-science-fall-2008/9c4688d50d22af369e23a5c8ed81123d_lecnotes35.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Readings and Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Enzyme catalysis
 uid: 9c4688d5-0d22-af36-9e23-a5c8ed81123d

@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: Selected biology-related questions from problem sets for lectures 1-9.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-111-principles-of-chemical-science-fall-2008/45445ad0eced62f4aa445c93e90a5886_L1to9Bio.pdf
+file: /media/courses/5-111-principles-of-chemical-science-fall-2008/45445ad0eced62f4aa445c93e90a5886_L1to9Bio.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Biology Topics
+parent_type: CourseSection
 resourcetype: Document
 title: Selected biology-related questions from problem sets for lectures 1-9
 uid: 45445ad0-eced-62f4-aa44-5c93e90a5886

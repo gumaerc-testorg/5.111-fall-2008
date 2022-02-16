@@ -2,8 +2,12 @@
 content_type: resource
 description: Lecture notes on oxidation states, and balancing oxidation/reduction
   reactions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-111-principles-of-chemical-science-fall-2008/4ce5aee29e16d88752b49f7ee9a6fe8e_lecnotes24.pdf
+file: /media/courses/5-111-principles-of-chemical-science-fall-2008/4ce5aee29e16d88752b49f7ee9a6fe8e_lecnotes24.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Readings and Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Balancing oxidation/reduction equations
 uid: 4ce5aee2-9e16-d887-52b4-9f7ee9a6fe8e

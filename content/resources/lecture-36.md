@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture Notes ([PDF](resources/lecnotes36 "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 36: Biochemistry'
 uid: 016db848-6334-354c-b216-63ffc7e5c3fa
 video_files:
   archive_url: http://www.archive.org/download/MIT5.111F08/ocw-5.111-f08-lec36_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-111-principles-of-chemical-science-fall-2008/f9e3d45206c159a097defa35c4f96500_qTrw6f_sbOw.vtt
+  video_captions_file: /courses/5-111-principles-of-chemical-science-fall-2008/f9e3d45206c159a097defa35c4f96500_qTrw6f_sbOw.vtt
   video_thumbnail_file: https://img.youtube.com/vi/qTrw6f_sbOw/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-111-principles-of-chemical-science-fall-2008/251e0071a5db70e1214b7395a6363de2_qTrw6f_sbOw.pdf
+  video_transcript_file: /courses/5-111-principles-of-chemical-science-fall-2008/251e0071a5db70e1214b7395a6363de2_qTrw6f_sbOw.pdf
 video_metadata:
   youtube_id: qTrw6f_sbOw
 ---

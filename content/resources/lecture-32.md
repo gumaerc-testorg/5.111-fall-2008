@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture Notes ([PDF](resources/lecnotes32 "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 32: Nuclear Chemistry and Elementary Reactions'
 uid: f3b85ff5-dd14-b1fa-ce07-1516ad8db239
 video_files:
   archive_url: http://www.archive.org/download/MIT5.111F08/ocw-5.111-f08-lec32_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-111-principles-of-chemical-science-fall-2008/cfe1da2748185626ae76879cf723963a_PJFW3Vrv-5w.vtt
+  video_captions_file: /courses/5-111-principles-of-chemical-science-fall-2008/cfe1da2748185626ae76879cf723963a_PJFW3Vrv-5w.vtt
   video_thumbnail_file: https://img.youtube.com/vi/PJFW3Vrv-5w/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-111-principles-of-chemical-science-fall-2008/0934f0c000d4881f3b6548262115e48d_PJFW3Vrv-5w.pdf
+  video_transcript_file: /courses/5-111-principles-of-chemical-science-fall-2008/0934f0c000d4881f3b6548262115e48d_PJFW3Vrv-5w.pdf
 video_metadata:
   youtube_id: PJFW3Vrv-5w
 ---

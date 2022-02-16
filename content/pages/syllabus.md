@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 898c85c8-b6cd-4bd3-014c-ab4f6058cabd
 ---
@@ -100,7 +102,7 @@ A list of the biology-, medicine-, and MIT research-related examples used in 5.
 Significant Figures
 -------------------
 
-Rules for scientific notation and significant figures are available in the back of the textbook in Appendix 1, pages A5-A6. You are also responsible for knowing the following SI prefixes: n (nano, 10\-9), µ (micro, 10\-6), m (milli, 10\-3), c (centi, 10\-2), and k (kilo, 103)
+Rules for scientific notation and significant figures are available in the back of the textbook in Appendix 1, pages A5-A6. You are also responsible for knowing the following SI prefixes: n (nano, 10{{< sup "\\-9" >}}), µ (micro, 10{{< sup "\\-6" >}}), m (milli, 10{{< sup "\\-3" >}}), c (centi, 10{{< sup "\\-2" >}}), and k (kilo, 10{{< sup "3" >}})
 
 Clicker Questions
 -----------------
