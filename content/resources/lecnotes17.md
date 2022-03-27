@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Lecture Notes
 parent_type: CourseSection
+parent_uid: 50ef108c-fdf3-2139-3c6d-b5f225678fb3
 resourcetype: Document
 title: Entropy and disorder
 uid: 9eaaeec1-06cb-4c25-7562-21264e2ba6ce

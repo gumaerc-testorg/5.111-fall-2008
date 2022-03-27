@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](resources/lecnotes31 "Open in a new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 31: Rate Laws'
 uid: 9ef0d366-4844-cd57-174b-7601288cfaf0
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: "\_Lecture Notes ([PDF](resources/lecnotes04 \"Open in a
   \ window.\"))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: Wave-Particle Duality of Matter'
 uid: 57d921e5-9f4f-df6d-6461-145e6d5cd714
 video_files:

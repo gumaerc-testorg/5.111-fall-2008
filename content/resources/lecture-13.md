@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Lecture Notes ([PDF - 5.1MB](resources/lecnotes13 "Open 
   a new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 13: Polar Covalent Bonds and VSEPR Theory'
 uid: 8a35ac0c-3bc9-3435-3a75-c1f40bc02d2c
 video_files:

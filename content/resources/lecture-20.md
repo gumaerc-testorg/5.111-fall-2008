@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](resources/lecnotes20 "Open in a new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 20: Le Chatelier''s Principle'
 uid: ff9addd5-96d8-3945-81b5-96f7454e713a
 video_files:

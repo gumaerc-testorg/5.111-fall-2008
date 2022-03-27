@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](resources/lecnotes17 "Open in a new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 17: Entropy and Disorder'
 uid: 3a69fe5f-cd42-5b17-ede2-8c1d42eedb08
 video_files:

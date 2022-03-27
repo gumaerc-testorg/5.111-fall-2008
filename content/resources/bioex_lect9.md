@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Biology Topics
 parent_type: CourseSection
+parent_uid: d3155b63-ec67-4335-5375-ea901b2a4f4e
 resourcetype: Document
 title: Periodic Trends (or Organization of the Periodic Table)
 uid: 974b0e49-15fa-ddc2-807e-4c902b7bdf92

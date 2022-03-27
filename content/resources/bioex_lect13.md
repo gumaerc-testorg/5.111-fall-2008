@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Biology Topics
 parent_type: CourseSection
+parent_uid: d3155b63-ec67-4335-5375-ea901b2a4f4e
 resourcetype: Document
 title: Polar Covalent Bonds/Polar Molecules
 uid: e7a85898-3d2a-e5a0-6e32-18cc45048d44

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Lecture Notes
 parent_type: CourseSection
+parent_uid: 50ef108c-fdf3-2139-3c6d-b5f225678fb3
 resourcetype: Document
 title: Le Chatelier's principle and applications to blood-oxygen levels
 uid: 5835843b-422c-acb3-1341-2304be8d07cb

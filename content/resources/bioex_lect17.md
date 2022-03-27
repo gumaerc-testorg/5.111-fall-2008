@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Biology Topics
 parent_type: CourseSection
+parent_uid: d3155b63-ec67-4335-5375-ea901b2a4f4e
 resourcetype: Document
 title: Hybridization (review of material from lectures 15 and 16)
 uid: d684fee5-e435-6975-fff0-43d7b95a2056

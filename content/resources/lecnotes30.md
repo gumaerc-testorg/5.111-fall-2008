@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Lecture Notes
 parent_type: CourseSection
+parent_uid: 50ef108c-fdf3-2139-3c6d-b5f225678fb3
 resourcetype: Document
 title: Magnetism and spectrochemical theory
 uid: b88d10b6-fb81-88de-aff7-e56e93f916fb

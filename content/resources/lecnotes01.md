@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Lecture Notes
 parent_type: CourseSection
+parent_uid: 50ef108c-fdf3-2139-3c6d-b5f225678fb3
 resourcetype: Document
 title: The importance of chemical principles
 uid: 6ec3e41f-78a0-1789-88c9-3eb5cc722b2d

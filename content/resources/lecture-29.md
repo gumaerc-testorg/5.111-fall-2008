@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Lecture Notes ([PDF - 1.2MB](resources/lecnotes29 "Open 
   a new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 29: Metals in Biology'
 uid: 16daaa5c-f0a3-3785-4237-c7e43f1aee8f
 video_files:

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Lecture Notes
 parent_type: CourseSection
+parent_uid: 50ef108c-fdf3-2139-3c6d-b5f225678fb3
 resourcetype: Document
 title: Acid-base titrations
 uid: 1ab87432-b37e-3192-8969-53ae61c2af8b

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Lecture Notes
 parent_type: CourseSection
+parent_uid: 50ef108c-fdf3-2139-3c6d-b5f225678fb3
 resourcetype: Document
 title: Periodic trends continued; Covalent bonds
 uid: 036967e1-b70c-1dd0-c0bc-b3b8ccca9de2

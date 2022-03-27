@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Biology Topics
 parent_type: CourseSection
+parent_uid: d3155b63-ec67-4335-5375-ea901b2a4f4e
 resourcetype: Document
 title: "Le Ch\xE2telier\u2019s Principle"
 uid: 0a46d341-fca3-c024-db28-a3a2ed0e8af2

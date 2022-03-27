@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Biology Topics
 parent_type: CourseSection
+parent_uid: d3155b63-ec67-4335-5375-ea901b2a4f4e
 resourcetype: Document
 title: Chemical and Biological Oxidation/Reduction Reactions
 uid: bcd5559b-53e8-7eaf-9f14-e84d7cbe8212

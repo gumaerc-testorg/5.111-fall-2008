@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Biology Topics
 parent_type: CourseSection
+parent_uid: d3155b63-ec67-4335-5375-ea901b2a4f4e
 resourcetype: Document
 title: Lewis Structures of some Biologically-Interesting Molecules
 uid: a976d61a-3bc5-6be7-93fb-44488efa2be8

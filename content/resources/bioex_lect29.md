@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Biology Topics
 parent_type: CourseSection
+parent_uid: d3155b63-ec67-4335-5375-ea901b2a4f4e
 resourcetype: Document
 title: 'Metals in Biology: Crystal Field Theory and Magnetism'
 uid: 8e62042a-a407-d5ca-30c7-f35718654907

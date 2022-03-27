@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Lecture Notes ([PDF - 1.4MB](resources/lecnotes28 "Open 
   a new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 28: Crystal Field Theory'
 uid: 0c9031b8-c773-8037-98a4-efcb80d50e33
 video_files:

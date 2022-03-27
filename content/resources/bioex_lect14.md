@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Biology Topics
 parent_type: CourseSection
+parent_uid: d3155b63-ec67-4335-5375-ea901b2a4f4e
 resourcetype: Document
 title: '2008 Nobel Prize in chemistry: Green Flourescent Protein'
 uid: c0b4ae64-1b04-9b8a-a126-b75dc1fb16db

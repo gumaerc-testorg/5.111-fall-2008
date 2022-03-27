@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Biology Topics
 parent_type: CourseSection
+parent_uid: d3155b63-ec67-4335-5375-ea901b2a4f4e
 resourcetype: Document
 title: 'Kinetics of Elementary Reactions: Radioactive Decay'
 uid: 0f442608-4bba-a06a-e735-102525e0a12b

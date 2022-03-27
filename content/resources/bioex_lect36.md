@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Biology Topics
 parent_type: CourseSection
+parent_uid: d3155b63-ec67-4335-5375-ea901b2a4f4e
 resourcetype: Document
 title: 'Review of Lecture 19-36 Topics: The Methionine Synthase Case Study'
 uid: 8c95e6ee-cec2-19d2-d84f-7ce8caff391f

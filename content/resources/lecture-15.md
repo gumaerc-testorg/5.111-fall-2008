@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Lecture Notes ([PDF - 1.0MB](resources/lecnotes15 "Open 
   a new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 15: Valence Bond Theory and Hybridization'
 uid: 80878c41-6c59-0bce-d37d-6d0ee04c2b35
 video_files:

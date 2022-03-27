@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: TA Training
 parent_type: CourseSection
+parent_uid: d95fdda3-d85f-e5ab-7c1d-3004f46da8e1
 resourcetype: Document
 title: Recitation Scenarios / Case Studies Led by Former 5.111 TAs
 uid: 3140687a-4152-324a-ed80-8cd590ed021b

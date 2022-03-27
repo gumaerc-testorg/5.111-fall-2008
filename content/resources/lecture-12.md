@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Lecture Notes ([PDF - 1.1MB](resources/lecnotes12 "Open 
   a new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12: Ionic Bonds'
 uid: 868c9c38-1553-4788-17ec-1276212d4952
 video_files:

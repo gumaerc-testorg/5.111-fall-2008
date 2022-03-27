@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Lecture Notes
 parent_type: CourseSection
+parent_uid: 50ef108c-fdf3-2139-3c6d-b5f225678fb3
 resourcetype: Document
 title: Exceptions to Lewis structure rules; Ionic bonds
 uid: 7f904a11-c9e8-7bb5-e146-4ddf62f3346b

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Biology Topics
 parent_type: CourseSection
+parent_uid: d3155b63-ec67-4335-5375-ea901b2a4f4e
 resourcetype: Document
 title: 'Catalysts of Life: Enzymes'
 uid: e77cea93-6802-91d0-f52f-bfca03eed1d9

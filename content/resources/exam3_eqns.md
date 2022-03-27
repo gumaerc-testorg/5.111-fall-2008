@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 03ccb4fc-9acc-2e9a-e701-ccd83ded8e0c
 resourcetype: Document
 title: Exam 3 Equation Sheet
 uid: ad783ec8-bf08-ab18-f7e9-22c00527f4b7

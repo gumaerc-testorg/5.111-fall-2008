@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Lecture Notes
 parent_type: CourseSection
+parent_uid: 50ef108c-fdf3-2139-3c6d-b5f225678fb3
 resourcetype: Document
 title: "Wave-particle duality of matter, Schr\xF6dinger equation"
 uid: 2c28fbe6-f72c-22d6-4b2b-866eff6332de

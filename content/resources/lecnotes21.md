@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Lecture Notes
 parent_type: CourseSection
+parent_uid: 50ef108c-fdf3-2139-3c6d-b5f225678fb3
 resourcetype: Document
 title: 'Acid-base equilibrium: Is MIT water safe to drink?'
 uid: b0450776-42cc-58a9-d199-e0bf3df0468d

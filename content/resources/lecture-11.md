@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: "\_Lecture Notes ([PDF](resources/lecnotes11 \"Open in a
   \ window.\"))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11: Lewis Structures'
 uid: 2b2638b2-9af7-6005-655f-385e27a2c6f1
 video_files:

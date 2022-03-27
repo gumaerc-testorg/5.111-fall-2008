@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Biology Topics
 parent_type: CourseSection
+parent_uid: d3155b63-ec67-4335-5375-ea901b2a4f4e
 resourcetype: Document
 title: Selected biology-related questions from problem sets for lectures 1-9
 uid: 45445ad0-eced-62f4-aa44-5c93e90a5886

@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Lecture Notes
 parent_type: CourseSection
+parent_uid: 50ef108c-fdf3-2139-3c6d-b5f225678fb3
 resourcetype: Document
 title: ' Transition metals and the treatment of lead poisoning'
 uid: d46054e7-59e0-38e9-27c0-86df8d7ff7da
