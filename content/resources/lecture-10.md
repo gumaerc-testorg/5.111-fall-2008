@@ -5,12 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Lecture Notes ([PDF - 1.6MB](resources/lecnotes10 "Open in
-  a new window."))
+related_resources_text: Lecture Notes ([PDF - 1.6MB](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecnotes10))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -28,3 +28,6 @@ video_metadata:
 **Topics covered:** Periodic trends continued; Covalent bonds
 
 **Instructor:** Catherine Drennan, Elizabeth Vogel Taylor
+
+
+

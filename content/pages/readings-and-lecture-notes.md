@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course along with information
+  on lecture topics and reading assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Readings and Lecture Notes
@@ -49,7 +51,7 @@ Sections C-H
 Sections L-M
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes01))
+({{% resource_link 6ec3e41f-78a0-1789-88c9-3eb5cc722b2d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +68,7 @@ Sections B.1-B.2
 Section 1.1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes02))
+({{% resource_link c9a26e9b-ece3-0dc2-5425-90b1df6fc8c1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +83,7 @@ Wave-particle duality of light
 Sections 1.2 and 1.4
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes03))
+({{% resource_link 0080505b-8fd7-f307-7693-5900165c6312 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +98,7 @@ Wave-particle duality of matter, Schrödinger equation
 Sections 1.5-1.6
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes04))
+({{% resource_link 2c28fbe6-f72c-22d6-4b2b-866eff6332de "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +113,7 @@ Hydrogen atom energy levels
 Sections 1.3, 1.7 up to equation 9b, and 1.8
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes05))
+({{% resource_link 8e34777f-5126-be8f-77b5-2440499df440 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +128,7 @@ Hydrogen atom wavefunctions (orbitals)
 Section 1.9
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2 MB]({{< baseurl >}}/resources/lecnotes06))
+({{% resource_link 8a0da034-6f1d-611f-bbd5-c31a54865c2d "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +143,7 @@ p-orbitals
 Sections 1.10-1.11
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes07))
+({{% resource_link 733a50a0-c384-3086-ea56-27cd4517566f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +158,7 @@ Multelectron atoms and electron configurations
 Sections 1.12-1.13
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes08))
+({{% resource_link f2f83ef8-726a-e891-adac-323deb0760c7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +173,7 @@ Periodic trends
 Sections 1.14-1.18, and 1.20
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.6 MB]({{< baseurl >}}/resources/lecnotes09))
+({{% resource_link 63ddc719-2e46-5337-b68a-5e1144530ac7 "PDF - 1.6 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +188,7 @@ Periodic trends continued; Covalent bonds
 Sections 2.5-2.6, and 2.14-2.16
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.6 MB]({{< baseurl >}}/resources/lecnotes10))
+({{% resource_link 036967e1-b70c-1dd0-c0bc-b3b8ccca9de2 "PDF - 1.6 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,7 +203,7 @@ Lewis structures
 Sections 2.7-2.8
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes11))
+({{% resource_link eff6f5df-dbef-5418-2fbc-88cbaa225d74 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -216,7 +218,7 @@ Exceptions to Lewis structure rules; Ionic bonds
 Sections 2.3 and 2.9-2.12
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1 MB]({{< baseurl >}}/resources/lecnotes12))
+({{% resource_link 7f904a11-c9e8-7bb5-e146-4ddf62f3346b "PDF - 1.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -231,7 +233,7 @@ Polar covalent bonds; VSEPR theory
 Sections 3.1-3.2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 5.1 MB]({{< baseurl >}}/resources/lecnotes13))
+({{% resource_link b2495abf-65b1-2ce0-b1e9-8230f8678e57 "PDF - 5.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -246,7 +248,7 @@ Molecular orbital theory
 Sections 3.8-3.11
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes14))
+({{% resource_link ab506dd8-d05a-af32-4e4f-287c49da221e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -261,7 +263,7 @@ Valence bond theory and hybridization
 Sections 3.4-3.7
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.0 MB]({{< baseurl >}}/resources/lecnotes15))
+({{% resource_link d0305cc4-a32e-b60f-3146-3126150b1026 "PDF - 1.0 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -276,7 +278,7 @@ Determining hybridization in complex molecules; Termochemistry and bond energies
 Sections 6.13, 6.15-6.18, and 6.20
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes16))
+({{% resource_link 5e78aae6-e8d5-832b-d175-6fd71a6d8c5f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -291,7 +293,7 @@ Entropy and disorder
 Sections 7.1-7.2, 7.8, 7.12-7.13, and 7.15
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes17))
+({{% resource_link 9eaaeec1-06cb-4c25-7562-21264e2ba6ce "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -306,7 +308,7 @@ Free energy and control of spontaneity
 Section 7.16
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes18))
+({{% resource_link 145e9256-9e8d-8eb9-be82-51fac3616e19 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -321,7 +323,7 @@ Chemical equilibrium
 Sections 9.0-9.9
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes19))
+({{% resource_link a025a709-ae3f-a331-2b5f-bdc0ed7a49b1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -336,7 +338,7 @@ Le Chatelier's principle and applications to blood-oxygen levels
 Sections 9.10-9.13
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes20))
+({{% resource_link 5835843b-422c-acb3-1341-2304be8d07cb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -351,7 +353,7 @@ Acid-base equilibrium: Is MIT water safe to drink?
 Chapter 10
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes21))
+({{% resource_link b0450776-42cc-58a9-d199-e0bf3df0468d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -366,7 +368,7 @@ Chemical and biological buffers
 Chapters 10 and 11
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes22))
+({{% resource_link 7da6e0c3-e537-7bcb-40ce-fb3e6ad94916 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -381,7 +383,7 @@ Acid-base titrations
 Chapter 11
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes23))
+({{% resource_link 1ab87432-b37e-3192-8969-53ae61c2af8b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -397,7 +399,7 @@ Section K
 Chapter 12
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes24))
+({{% resource_link 4ce5aee2-9e16-d887-52b4-9f7ee9a6fe8e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -412,7 +414,7 @@ Electrochemical cells
 Chapter 12
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes25))
+({{% resource_link a42a19b7-db3b-027a-e13b-68c422454155 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -427,7 +429,7 @@ Chemical and biological oxidation/reduction reactions
 Chapter 12
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes26))
+({{% resource_link 21e2e520-3e8f-98cf-008e-bfe2bd5a9901 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -442,7 +444,7 @@ Transition metals and the treatment of lead poisoning
 pp. 669-681
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes27))
+({{% resource_link d46054e7-59e0-38e9-27c0-86df8d7ff7da "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -457,7 +459,7 @@ Crystal field theory
 pp. 681-683
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.4 MB]({{< baseurl >}}/resources/lecnotes28))
+({{% resource_link c1c824f9-d56c-6b89-055a-dfa31d7a2c82 "PDF - 1.4 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -472,7 +474,7 @@ Metals in biology
 pp. 631-637
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2 MB]({{< baseurl >}}/resources/lecnotes29))
+({{% resource_link 5c16c0cc-6481-5f2c-c197-cee3a90b3ed0 "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -487,7 +489,7 @@ Magnetism and spectrochemical theory
 Chapter 16
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes30))
+({{% resource_link b88d10b6-fb81-88de-aff7-e56e93f916fb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -502,7 +504,7 @@ Rate laws
 Sections 13.1-13.5
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes31))
+({{% resource_link 384d2a48-1400-e486-3fc3-390b7b3b5269 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -517,7 +519,7 @@ Nuclear chemistry and elementary reactions
 pp. 498-501 and 660-664
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes32))
+({{% resource_link 334364e1-3756-12c5-8ea3-59476acd5dce "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -532,7 +534,7 @@ Reaction mechanism
 pp. 549-552
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes33))
+({{% resource_link f0f881ad-7f78-3300-a5cb-ff5626ec7475 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -547,7 +549,7 @@ Temperature and kinetics
 Sections 13.11-13.13
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes34))
+({{% resource_link 34d90e11-cf61-6c15-fc90-645bf6b8a3be "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -562,7 +564,7 @@ Enzyme catalysis
 Sections 13.14-13.15
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes35))
+({{% resource_link 9c4688d5-0d22-af36-9e23-a5c8ed81123d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -577,7 +579,7 @@ Biochemistry
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecnotes36))
+({{% resource_link ef38e21a-42d1-7bf6-165f-51fcca1f5237 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
