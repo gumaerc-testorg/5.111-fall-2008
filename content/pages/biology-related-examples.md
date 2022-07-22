@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information on biology-, medicine-, and MIT research-related
+  topics. Also included are selected biology-related homework problems and solutions.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Biology Topics
 uid: d3155b63-ec67-4335-5375-ea901b2a4f4e
 ---
@@ -67,7 +71,7 @@ L3
 Wave-particle duality of light
 {{< tdclose >}}
 {{< tdopen >}}
-Quantum dot research at MIT ([PDF]({{< baseurl >}}/resources/bioex_lect3))
+Quantum dot research at MIT ({{% resource_link 226fecac-cb69-418a-6eed-e00ee1298098 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -157,14 +161,14 @@ L9
 Periodic trends
 {{< tdclose >}}
 {{< tdopen >}}
-Alkali earth metals in the body: Na and K versus Li (lithiated 7-up) ([PDF]({{< baseurl >}}/resources/bioex_lect9))
+Alkali earth metals in the body: Na and K versus Li (lithiated 7-up) ({{% resource_link 974b0e49-15fa-ddc2-807e-4c902b7bdf92 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Selected biology-related questions based on Lecture 1-9. ([PDF]({{< baseurl >}}/resources/l1to9bio))
+Selected biology-related questions based on Lecture 1-9. ({{% resource_link 45445ad0-eced-62f4-aa44-5c93e90a5886 "PDF" %}})
 
-Answer key ([PDF]({{< baseurl >}}/resources/l1to9bio_key))
+Answer key ({{% resource_link d660bc75-1db2-9efa-b795-b7e7a420c722 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -178,7 +182,7 @@ L10
 Periodic trends continued; covalent bonds
 {{< tdclose >}}
 {{< tdopen >}}
-Atomic size: sodium ion channels in neurons ([PDF]({{< baseurl >}}/resources/bioex_lect10))
+Atomic size: sodium ion channels in neurons ({{% resource_link 164bc825-5018-aad2-aa6d-8965a53461a3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -201,7 +205,7 @@ Lewis sturucture examples:
 
 2) Thionyl chloride for the synthesis of novacaine
 
-([PDF]({{< baseurl >}}/resources/bioex_lect11))
+({{% resource_link a976d61a-3bc5-6be7-93fb-44488efa2be8 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -228,7 +232,7 @@ Exceptions to Lewis structure rules; Ionic bonds
 
 2) Lewis structure example: Nitric Oxide (NO) in vasodilation (and Viagra)
 
-([PDF]({{< baseurl >}}/resources/bioex_lect12))
+({{% resource_link 367dd1b2-2989-b54e-0631-60e106a1b3ef "PDF" %}})
 
 
 {{< tdclose >}}
@@ -255,7 +259,7 @@ Polar covalent bonds; VSEPR theory
 
 2) Molecuar shape: importance in enzyme-substrate complexes
 
-([PDF]({{< baseurl >}}/resources/bioex_lect13))
+({{% resource_link e7a85898-3d2a-e5a0-6e32-18cc45048d44 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -274,7 +278,7 @@ Molecular orbital theory
 {{< tdopen >}}
 
 
-2008 Nobel Prize in chemistry: Green Flourescent Protein (GFP) ([PDF]({{< baseurl >}}/resources/bioex_lect14))
+2008 Nobel Prize in chemistry: Green Flourescent Protein (GFP) ({{% resource_link c0b4ae64-1b04-9b8a-a126-b75dc1fb16db "PDF" %}})
 
 
 {{< tdclose >}}
@@ -291,7 +295,7 @@ L15
 Valence bond theory and hybridization
 {{< tdclose >}}
 {{< tdopen >}}
-Restriction of rotation around double bonds: application to drug design ([PDF]({{< baseurl >}}/resources/bioex_lect15))
+Restriction of rotation around double bonds: application to drug design ({{% resource_link 5eb89324-7884-49ce-84ee-399c911f7a9e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -316,7 +320,7 @@ Determining hybridization in complex molecules; Thermochemistry and bond energie
 
 2) Thermochemistry of glucose oxidation: harnessing energy from plants
 
-([PDF]({{< baseurl >}}/resources/bioex_lect16))
+({{% resource_link d16e04ce-c2f3-257e-be83-56476c92a908 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -339,7 +343,7 @@ Entropy and disorder
 
 2) ATP hydrolysis in the body
 
-([PDF]({{< baseurl >}}/resources/bioex_lect17))
+({{% resource_link d684fee5-e435-6975-fff0-43d7b95a2056 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -362,7 +366,7 @@ Free energy and control of spontaneity
 
 2) Thermodynamics of hydrogen bonding: relevance to DNA replication
 
-([PDF]({{< baseurl >}}/resources/bioex_lect18))
+({{% resource_link 8d72b3ee-1f36-89ad-2579-646bcdf1d7bf "PDF" %}})
 
 
 {{< tdclose >}}
@@ -400,16 +404,16 @@ Le Chatelier's principle and applications to blood-oxygen levels
 
 2) Le Chatelier's principle and hemoglobin: blood-oxygen levels
 
-([PDF - 2.7 MB]({{< baseurl >}}/resources/bioex_lect20))
+({{% resource_link 0a46d341-fca3-c024-db28-a3a2ed0e8af2 "PDF - 2.7 MB" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Selected biology-related questions based on Lectures 10-20 ([PDF]({{< baseurl >}}/resources/l10to20bio))
+Selected biology-related questions based on Lectures 10-20 ({{% resource_link e58ba504-fc9e-7a30-fa91-ebb596019eee "PDF" %}})
 
-Answer key ([PDF]({{< baseurl >}}/resources/l10to20bio_key))
+Answer key ({{% resource_link cabc730e-59bc-9aea-ce9c-d81046e2b063 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -457,7 +461,7 @@ Acid-base titrations
 {{< tdopen >}}
 
 
-pH and blood-effects from vitamin B12 deficiancy ([PDF - 2.4 MB]({{< baseurl >}}/resources/bioex_lect23))
+pH and blood-effects from vitamin B12 deficiancy ({{% resource_link 84ac992d-3e2a-2f83-7619-47bee6466a89 "PDF - 2.4 MB" %}})
 
 
 {{< tdclose >}}
@@ -489,7 +493,7 @@ L25
 Electrochemical cells
 {{< tdclose >}}
 {{< tdopen >}}
-Oxidative metabolism of drugs ([PDF]({{< baseurl >}}/resources/bioex_lect25))
+Oxidative metabolism of drugs ({{% resource_link aa813341-44a3-a7ba-4907-400f9d2c94cc "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 **Demo.** Oxidation of magnesium (resulting in a glowing block of dry ice)
@@ -506,16 +510,16 @@ Chemical and biological oxidation/reduction reactions
 {{< tdopen >}}
 
 
-Reduction of vitamin B12 in the body ([PDF]({{< baseurl >}}/resources/bioex_lect26))
+Reduction of vitamin B12 in the body ({{% resource_link bcd5559b-53e8-7eaf-9f14-e84d7cbe8212 "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Selected biology-related questions based on Lectures 21-26 ([PDF]({{< baseurl >}}/resources/l21to26bio))
+Selected biology-related questions based on Lectures 21-26 ({{% resource_link 8eead0ee-7e4c-84ef-6ca8-343042bc37ea "PDF" %}})
 
-Answer key ([PDF]({{< baseurl >}}/resources/l21to26bio_key))
+Answer key ({{% resource_link e1664e76-fc75-09d6-964c-210608989cf3 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -535,7 +539,7 @@ Transition metals and the treatment of lead poisoning
 
 2) Geometric isomers and drugs: i.e. the anti-cancer drug cisplatin
 
-([PDF]({{< baseurl >}}/resources/bioex_lect27))
+({{% resource_link 2876b2c3-a5f6-230d-9a59-59241f3822ca "PDF" %}})
 
 
 {{< tdclose >}}
@@ -569,7 +573,7 @@ Metals in biology
 {{< tdopen >}}
 
 
-Inspiration from metalloenzymes for the reduction of greenhouse gasses ([PDF - 1.3 MB]({{< baseurl >}}/resources/bioex_lect29))
+Inspiration from metalloenzymes for the reduction of greenhouse gasses ({{% resource_link 8e62042a-a407-d5ca-30c7-f35718654907 "PDF - 1.3 MB" %}})
 
 
 {{< tdclose >}}
@@ -613,7 +617,7 @@ Rate laws
 {{< tdopen >}}
 
 
-Kinetics of glucose oxidation (energy production) in the body ([PDF]({{< baseurl >}}/resources/bioex_lect31))
+Kinetics of glucose oxidation (energy production) in the body ({{% resource_link 519790a0-2c44-fce3-93a5-febafac3af2c "PDF" %}})
 
 
 {{< tdclose >}}
@@ -636,7 +640,7 @@ Nuclear chemistry and elementary reactions
 {{< tdopen >}}
 
 
-Medical applications of radioactive decay (technetium-99) ([PDF]({{< baseurl >}}/resources/bioex_lect32))
+Medical applications of radioactive decay (technetium-99) ({{% resource_link 0f442608-4bba-a06a-e735-102525e0a12b "PDF" %}})
 
 
 {{< tdclose >}}
@@ -657,7 +661,7 @@ L33
 Reaction mechanism
 {{< tdclose >}}
 {{< tdopen >}}
-Reaction mechanism of ozone decomposition ([PDF]({{< baseurl >}}/resources/bioex_lect33))
+Reaction mechanism of ozone decomposition ({{% resource_link 5184d1b3-63db-fbc7-b481-57fc39b9bd78 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -691,7 +695,7 @@ L35
 Enzyme catalysis
 {{< tdclose >}}
 {{< tdopen >}}
-Eyzmes as the catalysts of life, inhibitors (i.e. HIV protease inhibitors) ([PDF]({{< baseurl >}}/resources/bioex_lect35))
+Eyzmes as the catalysts of life, inhibitors (i.e. HIV protease inhibitors) ({{% resource_link e77cea93-6802-91d0-f52f-bfca03eed1d9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -706,14 +710,14 @@ L36
 Biochemistry
 {{< tdclose >}}
 {{< tdopen >}}
-The methionine synthase case study (chemistry in solution!) ([PDF]({{< baseurl >}}/resources/bioex_lect36))
+The methionine synthase case study (chemistry in solution!) ({{% resource_link 8c95e6ee-cec2-19d2-d84f-7ce8caff391f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Selected biology-related questions based on Lectures 27-36 ([PDF]({{< baseurl >}}/resources/l27to36bio))
+Selected biology-related questions based on Lectures 27-36 ({{% resource_link e6c362da-699f-49f8-a808-adfc716af9b3 "PDF" %}})
 
-Answer key ([PDF]({{< baseurl >}}/resources/l27to36bio_key))
+Answer key ({{% resource_link a9d62154-0198-4478-f56f-fc1135dda386 "PDF" %}})
 
 
 {{< tdclose >}}
