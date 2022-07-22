@@ -5,6 +5,7 @@ file: /courses/5-111-principles-of-chemical-science-fall-2008/13bd7395453603d760
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Exam 3 Information
 uid: 13bd7395-4536-03d7-6026-01ada6bb5599
 ---
 Instructions and logistics for the third exam of the course.
-

@@ -5,6 +5,7 @@ description: Solutions to selected biology-related questions from problem sets f
 file: /courses/5-111-principles-of-chemical-science-fall-2008/cabc730e59bc9aeace9cd81046e2b063_L10to20Bio_Key.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Biology Topics
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Solutions to selected biology-related questions from problem sets for lec
 uid: cabc730e-59bc-9aea-ce9c-d81046e2b063
 ---
 Solutions to selected biology-related questions from problem sets for lectures 10-20.
-

@@ -4,6 +4,7 @@ description: ''
 file: /courses/5-111-principles-of-chemical-science-fall-2008/a6c43149b2b607fed1346755f80cee8a_oQ-qDHADAaM.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

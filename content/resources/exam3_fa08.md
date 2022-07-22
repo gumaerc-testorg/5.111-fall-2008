@@ -5,6 +5,7 @@ file: /courses/5-111-principles-of-chemical-science-fall-2008/8611b34f5f40e34b84
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Exam 3
 uid: 8611b34f-5f40-e34b-842b-56ec08a0e840
 ---
 Final exam on the principles of chemical science.
-

@@ -4,6 +4,7 @@ description: Lecture notes on Lewis structures, formal charge, and resonance str
 file: /courses/5-111-principles-of-chemical-science-fall-2008/eff6f5dfdbef54182fbc88cbaa225d74_lecnotes11.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings and Lecture Notes
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: Lewis structures
 uid: eff6f5df-dbef-5418-2fbc-88cbaa225d74
 ---
 Lecture notes on Lewis structures, formal charge, and resonance structures.
-

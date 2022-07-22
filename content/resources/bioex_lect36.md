@@ -5,6 +5,7 @@ description: Lecture review on chemical equilibrium, acid base, oxidation reduct
 file: /courses/5-111-principles-of-chemical-science-fall-2008/8c95e6eecec219d2d84f7ce8caff391f_bioex_lect36.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Biology Topics
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Review of Lecture 19-36 Topics: The Methionine Synthase Case Study'
 uid: 8c95e6ee-cec2-19d2-d84f-7ce8caff391f
 ---
 Lecture review on chemical equilibrium, acid base, oxidation reduction, transition metals, and kinetics.
-
