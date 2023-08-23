@@ -23,7 +23,7 @@
     "website": "5-111-principles-of-chemical-science-fall-2008"
   },
   "course_title": "Principles of Chemical Science",
-  "course_description": "This course provides an introduction to the chemistry of biological, inorganic, and organic molecules.\u00a0The\u00a0emphasis is\u00a0on basic principles of atomic and molecular electronic structure, thermodynamics, acid-base and redox equilibria, chemical kinetics, and catalysis.\n\nIn an effort to illuminate connections between chemistry and biology, a list of the biology-, medicine-, and MIT research-related examples used in 5.111 is provided in [Biology-Related Examples](pages/biology-related-examples).\n\n##### Acknowledgements\n\nDevelopment and implementation of the biology-related materials in this course were funded through an HHMI Professors grant to Prof. Catherine L. Drennan. Videos and captioning were made possible and supported by the MIT Class of 2009.\n",
+  "course_description": "This course provides an introduction to the chemistry of biological, inorganic, and organic molecules.\u00a0The\u00a0emphasis is\u00a0on basic principles of atomic and molecular electronic structure, thermodynamics, acid-base and redox equilibria, chemical kinetics, and catalysis.\n\nIn an effort to illuminate connections between chemistry and biology, a list of the biology-, medicine-, and MIT research-related examples used in 5.111 is provided in [Biology-Related Examples](/courses/5-111-principles-of-chemical-science-fall-2008/pages/biology-related-examples).\n\n##### Acknowledgements\n\nDevelopment and implementation of the biology-related materials in this course were funded through an HHMI Professors grant to Prof. Catherine L. Drennan. Videos and captioning were made possible and supported by the MIT Class of 2009.\n",
   "department_numbers": [
     "5"
   ],
@@ -38,6 +38,7 @@
     "Exams with Solutions",
     "Lecture Notes"
   ],
-  "site_uid": "24fa5817-13e0-44bc-824a-5d6173ae081b",
+  "site_uid": "35c7b8d2-d1f5-4ece-911a-4f73e876033b",
+  "site_short_id": "5.111-fall-2008",
   "title": "Course Metadata"
 }
