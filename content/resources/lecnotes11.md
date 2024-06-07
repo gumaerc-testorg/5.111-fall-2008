@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on Lewis structures, formal charge, and resonance structures.
 file: /courses/5-111-principles-of-chemical-science-fall-2008/eff6f5dfdbef54182fbc88cbaa225d74_lecnotes11.pdf
+file_size: 291699
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

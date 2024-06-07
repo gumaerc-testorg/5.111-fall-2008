@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on chemical and biological buffers, equilibrium involving
   weak bases, and pH of salt solutions.
 file: /courses/5-111-principles-of-chemical-science-fall-2008/7da6e0c3e5377bcb40cefb3e6ad94916_lecnotes22.pdf
+file_size: 283742
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

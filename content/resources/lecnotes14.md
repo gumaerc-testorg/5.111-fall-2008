@@ -5,6 +5,7 @@ description: "Lecture notes on molecular orbital theory, bonding and antibonding
   \ molecules with MO\u2019s originating from s and p orbitals, and heteronuclear\
   \ diatomic molecules."
 file: /courses/5-111-principles-of-chemical-science-fall-2008/ab506dd8d05aaf324e4f287c49da221e_lecnotes14.pdf
+file_size: 675463
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

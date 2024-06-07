@@ -4,6 +4,7 @@ description: Lecture notes on thermodynamics, free energy of formation, the effe
   of temperature on spontaneity, thermodynamics in biological systems, ATP-coupled
   reactions, and hydrogen bonding.
 file: /courses/5-111-principles-of-chemical-science-fall-2008/145e92569e8d8eb9be8251fac3616e19_lecnotes18.pdf
+file_size: 367839
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

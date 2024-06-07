@@ -4,6 +4,7 @@ description: Lecture notes on photoelectron spectroscopy, the periodic table / p
   trends, ionization energy (IE), electron affinity (EA), electronegativity, atomic
   radius, and isoelectronic atoms and ions.
 file: /courses/5-111-principles-of-chemical-science-fall-2008/63ddc7192e465337b68a5e1144530ac7_lecnotes09.pdf
+file_size: 1709770
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

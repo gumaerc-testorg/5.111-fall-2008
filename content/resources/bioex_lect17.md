@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture review on hybridization (review of material from lectures 15
   and 16).
 file: /courses/5-111-principles-of-chemical-science-fall-2008/d684fee5e4356975fff043d7b95a2056_bioex_lect17.pdf
+file_size: 104539
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

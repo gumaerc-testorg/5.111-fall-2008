@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture review on rate laws and the kinetics of glucose oxidation (energy
   production) in the body.
 file: /courses/5-111-principles-of-chemical-science-fall-2008/519790a02c44fce393a5febafac3af2c_bioex_lect31.pdf
+file_size: 369783
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

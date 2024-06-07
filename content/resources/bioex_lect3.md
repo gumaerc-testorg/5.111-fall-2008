@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture review on wave-particle duality of light and quantum dot research
   at MIT.
 file: /courses/5-111-principles-of-chemical-science-fall-2008/226fecaccb69418a6eede00ee1298098_bioex_lect3.pdf
+file_size: 299616
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture review on the molecular structure of Green Fluorescent Protein
   (GFP).
 file: /courses/5-111-principles-of-chemical-science-fall-2008/c0b4ae641b049b8aa126b75dc1fb16db_bioex_lect14.pdf
+file_size: 184172
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

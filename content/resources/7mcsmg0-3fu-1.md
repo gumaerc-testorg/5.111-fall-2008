@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/5-111-principles-of-chemical-science-fall-2008/a630d1f2cc0744b94f0c5d6a0661357b_7mcSMG0-3FU.pdf
+file_size: 65297
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
