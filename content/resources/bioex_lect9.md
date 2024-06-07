@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture review on periodic trends (or organization of the periodic table).
 file: /courses/5-111-principles-of-chemical-science-fall-2008/974b0e4915faddc2807e4c902b7bdf92_bioex_lect9.pdf
+file_size: 131977
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

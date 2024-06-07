@@ -2,6 +2,7 @@
 content_type: resource
 description: Instructions and logistics for the final exam of the course.
 file: /courses/5-111-principles-of-chemical-science-fall-2008/06d3e8ab9f799709099276f6e90d0f92_finalinfo.pdf
+file_size: 136412
 file_type: application/pdf
 learning_resource_types:
 - Exams

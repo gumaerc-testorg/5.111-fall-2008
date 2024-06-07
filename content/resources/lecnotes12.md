@@ -4,6 +4,7 @@ description: Lecture notes on breakdown of the octet rule, odd number of valence
   octet deficient molecules, valence shell expansion, ionic bonds, and polar covalent
   bonds and polar molecules.
 file: /courses/5-111-principles-of-chemical-science-fall-2008/7f904a11c9e87bb5e1464ddf62f3346b_lecnotes12.pdf
+file_size: 1126361
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture review on enzymes and enzyme catalysis.
 file: /courses/5-111-principles-of-chemical-science-fall-2008/e77cea93680291d0f52fbfca03eed1d9_bioex_lect35.pdf
+file_size: 743651
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
