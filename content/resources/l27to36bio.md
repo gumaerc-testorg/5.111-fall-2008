@@ -2,6 +2,7 @@
 content_type: resource
 description: Selected biology-related questions from problem sets for lectures 27-36.
 file: /courses/5-111-principles-of-chemical-science-fall-2008/e6c362da699f49f8a808adfc716af9b3_L27to36Bio.pdf
+file_size: 91397
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

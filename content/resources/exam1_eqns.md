@@ -2,6 +2,7 @@
 content_type: resource
 description: Equation sheet for the first exam of the course.
 file: /courses/5-111-principles-of-chemical-science-fall-2008/a03c8d83dd777cd504f9a42ae356f23e_Exam1_Eqns.pdf
+file_size: 184381
 file_type: application/pdf
 learning_resource_types:
 - Exams

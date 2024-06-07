@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture review on periodic trends, covalent bonds, atomic size, and sodium
   ion channels in neurons.
 file: /courses/5-111-principles-of-chemical-science-fall-2008/164bc8255018aad2aa6d8965a53461a3_bioex_lect10.pdf
+file_size: 277477
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: Instructions and logistics for the first exam of the course.
 file: /courses/5-111-principles-of-chemical-science-fall-2008/5ec141103f2929b0f3b5f70f1610e4cd_exam1info.pdf
+file_size: 84348
 file_type: application/pdf
 learning_resource_types:
 - Exams

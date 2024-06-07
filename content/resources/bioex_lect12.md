@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture review on exceptions to Lewis structure rules: free radicals.'
 file: /courses/5-111-principles-of-chemical-science-fall-2008/367dd1b22989b54e063160e106a1b3ef_bioex_lect12.pdf
+file_size: 307940
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

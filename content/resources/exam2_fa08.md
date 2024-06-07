@@ -2,6 +2,7 @@
 content_type: resource
 description: Second exam of the semester on the principles of chemical science.
 file: /courses/5-111-principles-of-chemical-science-fall-2008/19559e245ff46c2515127c37eaf61975_Exam2_FA08.pdf
+file_size: 338724
 file_type: application/pdf
 learning_resource_types:
 - Exams

@@ -3,6 +3,7 @@ content_type: resource
 description: Solutions to the first exam of the semester on the principles of chemical
   science.
 file: /courses/5-111-principles-of-chemical-science-fall-2008/cc9666f3a80e83dd48bdd8b306fe0c32_E1_FA08_key.pdf
+file_size: 329293
 file_type: application/pdf
 learning_resource_types:
 - Exams
