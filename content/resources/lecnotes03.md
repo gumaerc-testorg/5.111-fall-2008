@@ -3,7 +3,7 @@ content_type: resource
 description: 'Lecture notes on the (failure of) the classical description of an atom,
   introduction to quantum mechanics: wave-particle duality, light as a wave, characteristics
   of waves, light as a particle, and the photoelectric effect.'
-file: /courses/5-111-principles-of-chemical-science-fall-2008/0080505b8fd7f30776935900165c6312_lecnotes03.pdf
+file: /ol-ocw-studio-app/courses/5-111-principles-of-chemical-science-fall-2008/0080505b8fd7f30776935900165c6312_lecnotes03.pdf
 file_size: 323324
 file_type: application/pdf
 learning_resource_types: []

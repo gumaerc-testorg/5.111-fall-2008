@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on the discovery of the electron and the nucleus, and (failure
   of) the classical description of the atom.
-file: /courses/5-111-principles-of-chemical-science-fall-2008/c9a26e9bece30dc2542590b1df6fc8c1_lecnotes02.pdf
+file: /ol-ocw-studio-app/courses/5-111-principles-of-chemical-science-fall-2008/c9a26e9bece30dc2542590b1df6fc8c1_lecnotes02.pdf
 file_size: 294208
 file_type: application/pdf
 learning_resource_types: []

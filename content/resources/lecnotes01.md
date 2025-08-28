@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes with an introduction to chemical principles, information
   on course policies, and an introduction to the 5.111 teaching team.
-file: /courses/5-111-principles-of-chemical-science-fall-2008/6ec3e41f78a0178988c93eb5cc722b2d_lecnotes01.pdf
+file: /ol-ocw-studio-app/courses/5-111-principles-of-chemical-science-fall-2008/6ec3e41f78a0178988c93eb5cc722b2d_lecnotes01.pdf
 file_size: 173137
 file_type: application/pdf
 learning_resource_types: []

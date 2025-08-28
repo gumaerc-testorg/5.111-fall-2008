@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on transition metals and crystal field theory.
-file: /courses/5-111-principles-of-chemical-science-fall-2008/c1c824f9d56c6b89055adfa31d7a2c82_lecnotes28.pdf
+file: /ol-ocw-studio-app/courses/5-111-principles-of-chemical-science-fall-2008/c1c824f9d56c6b89055adfa31d7a2c82_lecnotes28.pdf
 file_size: 1472871
 file_type: application/pdf
 learning_resource_types: []

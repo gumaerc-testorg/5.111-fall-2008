@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on valence bond theory and hybridization, sigma and pi
   bonds, hybridization of atomic orbitals, sp3 hybridization, sp2 hybridization, and
   sp hybridization.
-file: /courses/5-111-principles-of-chemical-science-fall-2008/d0305cc4a32eb60f31463126150b1026_lecnotes15.pdf
+file: /ol-ocw-studio-app/courses/5-111-principles-of-chemical-science-fall-2008/d0305cc4a32eb60f31463126150b1026_lecnotes15.pdf
 file_size: 652516
 file_type: application/pdf
 learning_resource_types: []

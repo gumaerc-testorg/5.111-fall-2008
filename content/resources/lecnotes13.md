@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on polar covalent bonds and polar molecules, the shapes
   of molecules, VSEPR theory. molecules without lone pairs. and molecules with lone
   pairs.
-file: /courses/5-111-principles-of-chemical-science-fall-2008/b2495abf65b12ce0b1e98230f8678e57_lecnotes13.pdf
+file: /ol-ocw-studio-app/courses/5-111-principles-of-chemical-science-fall-2008/b2495abf65b12ce0b1e98230f8678e57_lecnotes13.pdf
 file_size: 5352618
 file_type: application/pdf
 learning_resource_types: []
