@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on thermodynamics, enthalpies of reactions, spontaneous
   change and free energy, entropy, and free energy of formation.
-file: /courses/5-111-principles-of-chemical-science-fall-2008/9eaaeec106cb4c25756221264e2ba6ce_lecnotes17.pdf
+file: /ol-ocw-studio-app/courses/5-111-principles-of-chemical-science-fall-2008/9eaaeec106cb4c25756221264e2ba6ce_lecnotes17.pdf
 file_size: 388153
 file_type: application/pdf
 learning_resource_types: []

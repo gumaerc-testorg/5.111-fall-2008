@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture review on pH and blood-effects from vitamin B12 deficiency.
-file: /courses/5-111-principles-of-chemical-science-fall-2008/84ac992d3e2a2f83761947bee6466a89_bioex_lect23.pdf
+file: /ol-ocw-studio-app/courses/5-111-principles-of-chemical-science-fall-2008/84ac992d3e2a2f83761947bee6466a89_bioex_lect23.pdf
 file_size: 2408133
 file_type: application/pdf
 learning_resource_types: []

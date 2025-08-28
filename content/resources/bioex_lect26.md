@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture review on chemical and biological oxidation/reduction reactions,
   and reduction of vitamin B12 in the body.
-file: /courses/5-111-principles-of-chemical-science-fall-2008/bcd5559b53e87eaf9f14e84d7cbe8212_bioex_lect26.pdf
+file: /ol-ocw-studio-app/courses/5-111-principles-of-chemical-science-fall-2008/bcd5559b53e87eaf9f14e84d7cbe8212_bioex_lect26.pdf
 file_size: 490094
 file_type: application/pdf
 learning_resource_types: []

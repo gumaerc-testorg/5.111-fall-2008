@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Equation sheet for the third exam of the course.
-file: /courses/5-111-principles-of-chemical-science-fall-2008/ad783ec8bf08ab18f7e922c00527f4b7_Exam3_Eqns.pdf
+file: /ol-ocw-studio-app/courses/5-111-principles-of-chemical-science-fall-2008/ad783ec8bf08ab18f7e922c00527f4b7_Exam3_Eqns.pdf
 file_size: 298735
 file_type: application/pdf
 learning_resource_types:

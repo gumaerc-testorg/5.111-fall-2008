@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Selected biology-related questions from problem sets for lectures 10-20.
-file: /courses/5-111-principles-of-chemical-science-fall-2008/e58ba504fc9e7a30fa91ebb596019eee_L10to20Bio.pdf
+file: /ol-ocw-studio-app/courses/5-111-principles-of-chemical-science-fall-2008/e58ba504fc9e7a30fa91ebb596019eee_L10to20Bio.pdf
 file_size: 103804
 file_type: application/pdf
 learning_resource_types: []

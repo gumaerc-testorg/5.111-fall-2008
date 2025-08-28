@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture review on kinetics of elementary reactions: radioactive decay.'
-file: /courses/5-111-principles-of-chemical-science-fall-2008/0f4426084bbaa06ae735102525e0a12b_bioex_lect32.pdf
+file: /ol-ocw-studio-app/courses/5-111-principles-of-chemical-science-fall-2008/0f4426084bbaa06ae735102525e0a12b_bioex_lect32.pdf
 file_size: 260664
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture review on the reaction mechanism of ozone decomposition.
-file: /courses/5-111-principles-of-chemical-science-fall-2008/5184d1b363dbfbc7b48157fc39b9bd78_bioex_lect33.pdf
+file: /ol-ocw-studio-app/courses/5-111-principles-of-chemical-science-fall-2008/5184d1b363dbfbc7b48157fc39b9bd78_bioex_lect33.pdf
 file_size: 201531
 file_type: application/pdf
 learning_resource_types: []

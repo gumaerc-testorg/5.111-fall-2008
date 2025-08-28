@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on the effect of temperature, collision theory, and activated
   complex theory.
-file: /courses/5-111-principles-of-chemical-science-fall-2008/34d90e11cf616c15fc90645bf6b8a3be_lecnotes34.pdf
+file: /ol-ocw-studio-app/courses/5-111-principles-of-chemical-science-fall-2008/34d90e11cf616c15fc90645bf6b8a3be_lecnotes34.pdf
 file_size: 280465
 file_type: application/pdf
 learning_resource_types: []
