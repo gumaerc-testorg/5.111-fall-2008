@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture review on Lewis structures of some biologically-interesting molecules.
-file: /courses/5-111-principles-of-chemical-science-fall-2008/a976d61a3bc56be793fb44488efa2be8_bioex_lect11.pdf
+file: /ol-ocw-studio-app/courses/5-111-principles-of-chemical-science-fall-2008/a976d61a3bc56be793fb44488efa2be8_bioex_lect11.pdf
 file_size: 165535
 file_type: application/pdf
 learning_resource_types: []

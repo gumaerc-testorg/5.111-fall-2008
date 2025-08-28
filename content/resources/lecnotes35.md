@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on enzyme catalysis and Le Chatelier's principle.
-file: /courses/5-111-principles-of-chemical-science-fall-2008/9c4688d50d22af369e23a5c8ed81123d_lecnotes35.pdf
+file: /ol-ocw-studio-app/courses/5-111-principles-of-chemical-science-fall-2008/9c4688d50d22af369e23a5c8ed81123d_lecnotes35.pdf
 file_size: 317156
 file_type: application/pdf
 learning_resource_types: []

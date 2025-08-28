@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: First exam of the semester on the principles of chemical science.
-file: /courses/5-111-principles-of-chemical-science-fall-2008/0de42d141df2c5f775500cd21c54074c_Exam1_FA08.pdf
+file: /ol-ocw-studio-app/courses/5-111-principles-of-chemical-science-fall-2008/0de42d141df2c5f775500cd21c54074c_Exam1_FA08.pdf
 file_size: 210989
 file_type: application/pdf
 learning_resource_types:

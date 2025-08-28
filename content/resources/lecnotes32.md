@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on radioactive decay, second order integrated rate laws,
   kinetics and chemical equilibrium, and an introduction to reaction mechanisms.
-file: /courses/5-111-principles-of-chemical-science-fall-2008/334364e1375612c58ea359476acd5dce_lecnotes32.pdf
+file: /ol-ocw-studio-app/courses/5-111-principles-of-chemical-science-fall-2008/334364e1375612c58ea359476acd5dce_lecnotes32.pdf
 file_size: 337897
 file_type: application/pdf
 learning_resource_types: []
