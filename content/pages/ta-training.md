@@ -142,7 +142,7 @@ Review the acid-base problems from the practice exams.
 
 Cohen, G. L. and C. M. Steele. "A barrier of mistrust: How negative stereotypes affect cross-race mentoring". Chap. 15 in _Improving Academic Achievement: Impact of Psychological Factors on Education_. Edited by J. Aronson. pp. 305-331. San Diego, CA: Academic Press, 2002. ISBN: 9780120644551.
 
-Prepare a 6-10 minute [microteaching](https://tll.mit.edu/programming/grad-student-programming/microteaching-cohort-program/) lesson for Day 3.
+Prepare a 6-10 minute {{% resource_link "4e007f5f-4f59-46b9-a4f3-a1e19093b02a" "microteaching" %}} lesson for Day 3.
 
 
 {{< tdclose >}}
